@@ -4,7 +4,7 @@
 
 ```
 git clone https://github.com/binance-chain/node-binary.git
-cd node-binary/lightd/lightnode/testnet/0.5.8/linux
+cd node-binary/lightd/lightnode/testnet/0.5.8/os
 ```
 
 ## Run node
