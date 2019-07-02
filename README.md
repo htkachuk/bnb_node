@@ -60,6 +60,12 @@ Output:
 }
 ```
 
+## CLI path
+
+```
+cd node-binary/cli/{network}/{version}
+```
+
 ## Import key
 
 ```
