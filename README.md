@@ -67,4 +67,9 @@ Output:
 ```
 Then provide password and mnemonic phrase.
 
+## Issue token
 
+```
+./tbnbcli token issue --token-name "Essentia" --total-supply 100000000000000000 --symbol ESS --from key  --chain-id "Binance-Chain-Nile" --node tcp://data-seed-pre-0-s1.binance.org:80 --trust-node 
+```
+Probably works for valid account.
